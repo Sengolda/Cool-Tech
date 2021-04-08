@@ -12,7 +12,7 @@ If you have found a bug please make sure the go the the Issues and report it.
 
 if you wanna contribute please follow the steps below:
 
-1 Frok the repo
+1 Fork the repo
 2 Make changes to it in your own repo for however you want..
 3 Submit a pull request
 
