@@ -20,4 +20,4 @@
 # how to report a bug and what to do before reporting
 
 ##### 1 try and see if you can change the code, that way you might get a chance of contributing
-##### 2 make sure if you made changes the the code and there is a bug with that, that is not our fault
+##### 2 make sure if you made changes to the code and there is a bug with that, that is not our fault
