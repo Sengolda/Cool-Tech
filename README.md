@@ -1,6 +1,6 @@
 # Cool-Tech
 
-### Cool-Tech is an open source code made in discord.py and is open sourced (any one can use the code), more info can be found in thew LICENSE file
+### Cool-Tech is an open source code made in discord.py and is open sourced (any one can use the code), more info can be found in the LICENSE file
 
 
 #  found a bug 
