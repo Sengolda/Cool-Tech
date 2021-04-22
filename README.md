@@ -21,3 +21,14 @@
 
 ##### 1 Try and see if you can change the code, that way you might get a chance of contributing
 ##### 2 Make sure if you made changes to the code and there is a bug with that, that is not our fault
+
+
+## how to run it
+- please cd to the correct folder and run this:
+```py
+python3.9 main.py
+```
+- if this does not work it is probaly because you have a diffence python version, so please replace the 3.9 with your python version
+
+- then it will ask you to put your bot's TOKEN please put your bot's token
+- if you have any issues please make sure to report them.
