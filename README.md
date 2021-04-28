@@ -1,14 +1,17 @@
 # Cool-Tech
 
-### Cool-Tech is an open-source project made in Discord.py and anyone can use the code, more info can be found in the LICENSE file
+- Cool-Tech is an open-source project made in Discord.py and anyone can use the code, more info can be found in the LICENSE file
+
+## LICENSE WARNING
+- Please Make sure to follow the LICENSE (GNU GENERAL PUBLIC LICENSE Version 3).
+- More info the the LICENSE can be found in the [LICENSE](https://github.com/Sengolda/Cool-Tech/blob/dbe5932f785d31a0a998210cec21e1d87f46eb81/LICENSE) file.
+
+### Found A Bug 
 
 
-#  Found A Bug 
+- If you find a bug please make sure to go to the Issues tab and report it.
 
-
-####  If you find a bug please make sure to go to the Issues tab and report it.
-
-# How To Contribute
+#### How To Contribute
 
 ### If you wanna contribute please follow the steps below:
 
