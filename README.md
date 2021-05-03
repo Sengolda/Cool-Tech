@@ -4,7 +4,7 @@
 
 ## LICENSE WARNING
 - Please Make sure to follow the LICENSE (Apache-2.0 License).
-- More info the the LICENSE can be found in the [LICENSE](https://github.com/Sengolda/Cool-Tech/blob/dbe5932f785d31a0a998210cec21e1d87f46eb81/LICENSE) file
+- More info the the LICENSE can be found in the [LICENSE](https://github.com/Sengolda/Cool-Tech/blob/main/LICENSE) file
 
 ## Found A Bug 
 
