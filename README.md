@@ -3,7 +3,7 @@
 - Cool-Tech is an open-source project made in Discord.py and anyone can use the code, more info can be found in the LICENSE file
 
 ## LICENSE WARNING
-- Please Make sure to follow the LICENSE (GNU GENERAL PUBLIC LICENSE Version 3).
+- Please Make sure to follow the LICENSE (Apache-2.0 License).
 - More info the the LICENSE can be found in the [LICENSE](https://github.com/Sengolda/Cool-Tech/blob/dbe5932f785d31a0a998210cec21e1d87f46eb81/LICENSE) file
 
 ## Found A Bug 
