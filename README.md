@@ -15,9 +15,9 @@
 
 ### If you wanna contribute please follow the steps below:
 
-##### 1 Fork the repo
-##### 2 Make changes to it in your own repo anyway you want..
-##### 3 Submit a pull request
+- 1 Fork the repo
+- 2 Make changes to it in your own repo anyway you want..
+- 3 Submit a pull request
 
 
 # What to do before reporting
@@ -35,3 +35,11 @@ python3.9 main.py
 
 - then it will ask you to put your bot's TOKEN please put your bot's token
 - if you have any issues please make sure to report them.
+
+
+#### How to install the modules
+- You can use the code on terminal below (Make sure your in the correct folder)
+
+```sh
+python3 -m pip install -r requirements.txt
+```
